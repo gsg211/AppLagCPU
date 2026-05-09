@@ -53,6 +53,7 @@ build CMakeFiles/amd_applag.dir/main.cpp.o.ddi: CXX_SCAN__amd_applag_Debug /home
   DEP_FILE = CMakeFiles/amd_applag.dir/main.cpp.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/main.cpp.o.ddi
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
   OBJ_FILE = CMakeFiles/amd_applag.dir/main.cpp.o
   PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/main.cpp.o.ddi.i
 
@@ -61,6 +62,7 @@ build CMakeFiles/amd_applag.dir/main.cpp.o: CXX_COMPILER__amd_applag_scanned_Deb
   DEP_FILE = CMakeFiles/amd_applag.dir/main.cpp.o.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/main.cpp.o.modmap
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
   OBJECT_DIR = CMakeFiles/amd_applag.dir
   OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir
   TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
@@ -70,6 +72,7 @@ build CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.ddi: CXX_SCAN__amd_appla
   DEP_FILE = CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.ddi
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
   OBJ_FILE = CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o
   PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.ddi.i
 
@@ -78,6 +81,7 @@ build CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o: CXX_COMPILER__amd_appla
   DEP_FILE = CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.modmap
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
   OBJECT_DIR = CMakeFiles/amd_applag.dir
   OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir/src/Memory
   TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
@@ -87,6 +91,7 @@ build CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.ddi: CXX_SCAN__amd_appla
   DEP_FILE = CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.ddi
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
   OBJ_FILE = CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o
   PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.ddi.i
 
@@ -95,12 +100,108 @@ build CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o: CXX_COMPILER__amd_appla
   DEP_FILE = CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.modmap
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
   OBJECT_DIR = CMakeFiles/amd_applag.dir
   OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir/src/Timing
   TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
   dyndep = CMakeFiles/amd_applag.dir/CXX.dd
 
-build CMakeFiles/amd_applag.dir/CXX.dd | CMakeFiles/amd_applag.dir/CXXModules.json CMakeFiles/amd_applag.dir/main.cpp.o.modmap CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.modmap CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.modmap: CXX_DYNDEP__amd_applag_Debug CMakeFiles/amd_applag.dir/main.cpp.o.ddi CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.ddi CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.ddi | /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/CMakeFiles/amd_applag.dir/CXXDependInfo.json
+build CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.ddi: CXX_SCAN__amd_applag_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/Registers/RegisterBank.cpp || cmake_object_order_depends_target_amd_applag
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.ddi
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJ_FILE = CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.ddi.i
+
+build CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o: CXX_COMPILER__amd_applag_scanned_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/Registers/RegisterBank.cpp | CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.modmap || cmake_object_order_depends_target_amd_applag CMakeFiles/amd_applag.dir/CXX.dd
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.modmap
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJECT_DIR = CMakeFiles/amd_applag.dir
+  OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir/src/Registers
+  TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
+  dyndep = CMakeFiles/amd_applag.dir/CXX.dd
+
+build CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.ddi: CXX_SCAN__amd_applag_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/Decoder/Decoder.cpp || cmake_object_order_depends_target_amd_applag
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.ddi
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJ_FILE = CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.ddi.i
+
+build CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o: CXX_COMPILER__amd_applag_scanned_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/Decoder/Decoder.cpp | CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.modmap || cmake_object_order_depends_target_amd_applag CMakeFiles/amd_applag.dir/CXX.dd
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.modmap
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJECT_DIR = CMakeFiles/amd_applag.dir
+  OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir/src/cpu/Decoder
+  TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
+  dyndep = CMakeFiles/amd_applag.dir/CXX.dd
+
+build CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.ddi: CXX_SCAN__amd_applag_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/Data/Execute/Execute.cpp || cmake_object_order_depends_target_amd_applag
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.ddi
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJ_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.ddi.i
+
+build CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o: CXX_COMPILER__amd_applag_scanned_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/Data/Execute/Execute.cpp | CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.modmap || cmake_object_order_depends_target_amd_applag CMakeFiles/amd_applag.dir/CXX.dd
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.modmap
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJECT_DIR = CMakeFiles/amd_applag.dir
+  OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute
+  TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
+  dyndep = CMakeFiles/amd_applag.dir/CXX.dd
+
+build CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.ddi: CXX_SCAN__amd_applag_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/cpu.cpp || cmake_object_order_depends_target_amd_applag
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.ddi
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJ_FILE = CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.ddi.i
+
+build CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o: CXX_COMPILER__amd_applag_scanned_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/cpu.cpp | CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.modmap || cmake_object_order_depends_target_amd_applag CMakeFiles/amd_applag.dir/CXX.dd
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.modmap
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJECT_DIR = CMakeFiles/amd_applag.dir
+  OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir/src/cpu
+  TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
+  dyndep = CMakeFiles/amd_applag.dir/CXX.dd
+
+build CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.ddi: CXX_SCAN__amd_applag_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/Data/Execute/Alu.cpp || cmake_object_order_depends_target_amd_applag
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.ddi
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJ_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.ddi.i
+
+build CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o: CXX_COMPILER__amd_applag_scanned_Debug /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/src/cpu/Data/Execute/Alu.cpp | CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.modmap || cmake_object_order_depends_target_amd_applag CMakeFiles/amd_applag.dir/CXX.dd
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.modmap
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control" -I"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src"
+  OBJECT_DIR = CMakeFiles/amd_applag.dir
+  OBJECT_FILE_DIR = CMakeFiles/amd_applag.dir/src/cpu/Data/Execute
+  TARGET_SUPPORT_DIR = CMakeFiles/amd_applag.dir
+  dyndep = CMakeFiles/amd_applag.dir/CXX.dd
+
+build CMakeFiles/amd_applag.dir/CXX.dd | CMakeFiles/amd_applag.dir/CXXModules.json CMakeFiles/amd_applag.dir/main.cpp.o.modmap CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.modmap CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.modmap CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.modmap CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.modmap CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.modmap CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.modmap CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.modmap: CXX_DYNDEP__amd_applag_Debug CMakeFiles/amd_applag.dir/main.cpp.o.ddi CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.ddi CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.ddi CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.ddi CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.ddi CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.ddi CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.ddi CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.ddi | /home/sabin/Files/Facultate/An$ 3$ Home/amd_applag/CMakeFiles/amd_applag.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -110,7 +211,7 @@ build CMakeFiles/amd_applag.dir/CXX.dd | CMakeFiles/amd_applag.dir/CXXModules.js
 #############################################
 # Link the executable amd_applag
 
-build amd_applag: CXX_EXECUTABLE_LINKER__amd_applag_Debug CMakeFiles/amd_applag.dir/main.cpp.o CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o
+build amd_applag: CXX_EXECUTABLE_LINKER__amd_applag_Debug CMakeFiles/amd_applag.dir/main.cpp.o CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o
   CONFIG = Debug
   DEP_FILE = CMakeFiles/amd_applag.dir/link.d
   FLAGS = -g

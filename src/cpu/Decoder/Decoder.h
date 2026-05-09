@@ -6,16 +6,37 @@
 #define AMD_APPLAG_DECODER_H
 
 #include <thread>
-#incldue "Timing.h"
 #include "IModule.h"
+#include "Timing.h"
+#include <queue>
+#include "Utils.h"
+#include "ThreadSafeQueue/ThreadSafeQueue.h"
 
 class Decoder : public IModule
 {
 public:
-    Decoder(const TimingPtr& timing);
+    Decoder(const TimingPtr& timing, const StringThreadSafeQueuePtr& instructionQueue, const MessageThreadSafeQueuePtr& messageQueue);
+    Decoder(const Decoder&) = delete;
+    Decoder& operator=(const Decoder&) = delete;
+    Decoder(Decoder&&) = delete;
+    Decoder& operator=(Decoder&&) = delete;
+    ~Decoder() = default;
+
+public:
     void Start()override;
+    void Stop()override;
 
 private:
+    void DecodeLoop();
+
+public:
+    StringThreadSafeQueuePtr m_instructionQueue;
+    MessageThreadSafeQueuePtr m_decodeQueue;
+
+private:
+    std::mutex m_decoderMutex;
+    std::mutex m_decoderMessagesMutex;
+
     TimingPtr m_timing;
 };
 

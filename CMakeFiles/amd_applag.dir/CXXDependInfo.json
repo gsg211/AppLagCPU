@@ -12,7 +12,17 @@
 	"dir-top-src" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
 	"exports" : [],
 	"forward-modules-from-target-dirs" : [],
-	"include-dirs" : [],
+	"include-dirs" : 
+	[
+		"src/cpu/Decoder",
+		"src/cpu",
+		"src/Memory",
+		"src/Registers",
+		"src/Timing",
+		"src/cpu/Data/Execute",
+		"src/cpu/Control",
+		"src"
+	],
 	"language" : "CXX",
 	"linked-target-dirs" : [],
 	"module-dir" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir",
@@ -28,10 +38,35 @@
 			"language" : "CXX",
 			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp"
 		},
+		"CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers/RegisterBank.cpp"
+		},
 		"CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o" : 
 		{
 			"language" : "CXX",
 			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing/Timing.cpp"
+		},
+		"CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute/Alu.cpp"
+		},
+		"CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute/Execute.cpp"
+		},
+		"CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder/Decoder.cpp"
+		},
+		"CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/cpu.cpp"
 		}
 	}
 }
