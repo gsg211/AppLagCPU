@@ -28,6 +28,16 @@
 			"language" : "CXX",
 			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp"
 		},
+		"CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers/RegisterBank.cpp"
+		},
+		"CMakeFiles/amd_applag.dir/src/Registers/class.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers/class.cpp"
+		},
 		"CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o" : 
 		{
 			"language" : "CXX",
