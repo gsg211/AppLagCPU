@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/amd_applag.dir/src/main.cpp.o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o -o amd_applag

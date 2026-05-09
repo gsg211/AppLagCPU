@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tudor/AN3/ITMarathon/AppLagCPU/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
