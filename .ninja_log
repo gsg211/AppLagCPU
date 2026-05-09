@@ -1,0 +1,10 @@
+# ninja log v7
+1	28	1778314945049748659	CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.ddi	171b7fd4784bfc8c
+0	84	1778314945048748651	CMakeFiles/amd_applag.dir/main.cpp.o.ddi	a90c0ed92f92e2f5
+84	89	1778314945138152595	CMakeFiles/amd_applag.dir/CXX.dd	797f4ee8b281c9cc
+84	89	1778314945138152595	CMakeFiles/amd_applag.dir/CXXModules.json	797f4ee8b281c9cc
+84	89	1778314945138152595	CMakeFiles/amd_applag.dir/main.cpp.o.modmap	797f4ee8b281c9cc
+84	89	1778314945138152595	CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.modmap	797f4ee8b281c9cc
+90	167	1778314945139412808	CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o	8598e45ce511ae39
+89	752	1778314945138995763	CMakeFiles/amd_applag.dir/main.cpp.o	91f083d948917631
+754	800	1778314945803251666	amd_applag	dac9345bb8e7f059
