@@ -4,6 +4,7 @@
 #include <queue>
 #include <mutex>
 #include <optional>
+#include "Utils.h"
 
 template<typename T>
 class ThreadSafeQueue {
