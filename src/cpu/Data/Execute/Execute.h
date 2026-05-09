@@ -19,9 +19,6 @@ private:
     std::mutex m_executeMessagesMutex;
 
 public:
-    StringThreadSafeQueuePtr m_instructionQueue;
-    MessageThreadSafeQueuePtr m_decodeQueue;
-public:
     Execute(const TimingPtr &timing, const StringThreadSafeQueuePtr& instructionQueue, const MessageThreadSafeQueuePtr& messageQueue);
     void Start() override;
     void Stop() override;
