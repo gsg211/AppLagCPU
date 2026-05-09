@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/amd_applag.dir/link.d CMakeFiles/amd_applag.dir/main.cpp.o -o amd_applag

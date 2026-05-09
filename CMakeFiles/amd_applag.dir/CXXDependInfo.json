@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
+	"dir-cur-src" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
+	"dir-top-bld" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
+	"dir-top-src" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir",
+	"sources" : 
+	{
+		"CMakeFiles/amd_applag.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/main.cpp"
+		},
+		"CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp"
+		}
+	}
+}
