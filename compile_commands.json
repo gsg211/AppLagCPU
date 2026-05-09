@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/codrin/Maraton",
+  "command": "/usr/bin/c++   -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/main.cpp.o -c /home/codrin/Maraton/main.cpp",
+  "file": "/home/codrin/Maraton/main.cpp",
+  "output": "CMakeFiles/amd_applag.dir/main.cpp.o"
+}
+]

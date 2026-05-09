@@ -1,0 +1,3 @@
+/home/codrin/Maraton/CMakeFiles/amd_applag.dir
+/home/codrin/Maraton/CMakeFiles/edit_cache.dir
+/home/codrin/Maraton/CMakeFiles/rebuild_cache.dir

@@ -3,4 +3,5 @@ project(amd_applag)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(amd_applag main.cpp)
+add_executable(amd_applag main.cpp
+        Constants.h)
