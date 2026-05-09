@@ -35,5 +35,6 @@ private:
     std::jthread m_timingThread;
     std::atomic_bool m_running = true;
 };
+typedef std::shared_ptr<Timing> TimingPtr;
 
 #endif //AMD_APPLAG_TIMING_H
