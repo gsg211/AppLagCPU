@@ -135,5 +135,9 @@ class Message <<Struct>> {
     +m_messageType: std::string
     +m_msgData: uint8_t
 }
+class DataPacket <<Struct>> {
+    +m_dataTag: std::string
+    +m_dataPacket: uint16_t
+}
 
 ```
