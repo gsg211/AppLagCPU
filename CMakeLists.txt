@@ -28,6 +28,8 @@ add_executable(amd_applag main.cpp
         src/cpu/Data/Execute/Alu.cpp
         src/cpu/ThreadSafeQueue/ThreadSafeQueue.h
         src/cpu/Utils.h
+        src/CodeMem/CodeMem.h
+        src/CodeMem/CodeMem.cpp
 )
 
 target_include_directories(amd_applag PRIVATE

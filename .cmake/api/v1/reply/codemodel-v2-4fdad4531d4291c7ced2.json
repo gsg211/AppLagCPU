@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "amd_applag::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-amd_applag-Debug-8523f29913731ed6b611.json",
+					"jsonFile" : "target-amd_applag-Debug-e78501f754af90a31783.json",
 					"name" : "amd_applag",
 					"projectIndex" : 0
 				}
@@ -50,8 +50,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-		"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag"
+		"build" : "/home/codrin/Marat/AppLagCPU",
+		"source" : "/home/codrin/Marat/AppLagCPU"
 	},
 	"version" : 
 	{

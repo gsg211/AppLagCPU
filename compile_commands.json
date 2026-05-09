@@ -1,50 +1,56 @@
 [
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/main.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/main.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/main.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/main.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/main.cpp.o -c /home/codrin/Marat/AppLagCPU/main.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/main.cpp",
+  "output": "CMakeFiles/amd_applag.dir/main.cpp.o"
 },
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o -c /home/codrin/Marat/AppLagCPU/src/Memory/memory.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/Memory/memory.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o"
 },
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing/Timing.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing/Timing.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o -c /home/codrin/Marat/AppLagCPU/src/Timing/Timing.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/Timing/Timing.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o"
 },
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers/RegisterBank.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers/RegisterBank.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o -c /home/codrin/Marat/AppLagCPU/src/Registers/RegisterBank.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/Registers/RegisterBank.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o"
 },
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder/Decoder.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder/Decoder.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o -c /home/codrin/Marat/AppLagCPU/src/cpu/Decoder/Decoder.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/cpu/Decoder/Decoder.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o"
 },
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute/Execute.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute/Execute.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o -c /home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute/Execute.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute/Execute.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o"
 },
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/cpu.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/cpu.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o -c /home/codrin/Marat/AppLagCPU/src/cpu/cpu.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/cpu/cpu.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o"
 },
 {
-  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
-  "command": "/usr/bin/c++ -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Decoder\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Registers\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Control\" -I\"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src\" -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute/Alu.cpp\"",
-  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/cpu/Data/Execute/Alu.cpp",
-  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o"
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o -c /home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute/Alu.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute/Alu.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o"
+},
+{
+  "directory": "/home/codrin/Marat/AppLagCPU",
+  "command": "/usr/bin/c++  -I/home/codrin/Marat/AppLagCPU/src/cpu/Decoder -I/home/codrin/Marat/AppLagCPU/src/cpu -I/home/codrin/Marat/AppLagCPU/src/Memory -I/home/codrin/Marat/AppLagCPU/src/Registers -I/home/codrin/Marat/AppLagCPU/src/Timing -I/home/codrin/Marat/AppLagCPU/src/cpu/Data/Execute -I/home/codrin/Marat/AppLagCPU/src/cpu/Control -I/home/codrin/Marat/AppLagCPU/src -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/CodeMem/CodeMem.cpp.o -c /home/codrin/Marat/AppLagCPU/src/CodeMem/CodeMem.cpp",
+  "file": "/home/codrin/Marat/AppLagCPU/src/CodeMem/CodeMem.cpp",
+  "output": "CMakeFiles/amd_applag.dir/src/CodeMem/CodeMem.cpp.o"
 }
 ]

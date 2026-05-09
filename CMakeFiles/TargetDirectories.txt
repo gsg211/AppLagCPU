@@ -1,3 +1,3 @@
-/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir
-/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/edit_cache.dir
-/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/rebuild_cache.dir
+/home/codrin/Marat/AppLagCPU/CMakeFiles/amd_applag.dir
+/home/codrin/Marat/AppLagCPU/CMakeFiles/edit_cache.dir
+/home/codrin/Marat/AppLagCPU/CMakeFiles/rebuild_cache.dir

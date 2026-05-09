@@ -57,10 +57,10 @@ RM = /home/codrin/Downloads/clion-2026.1.1/bin/cmake/linux/x64/bin/cmake -E rm -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/codrin/Maraton
+CMAKE_SOURCE_DIR = /home/codrin/Marat/AppLagCPU
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/codrin/Maraton
+CMAKE_BINARY_DIR = /home/codrin/Marat/AppLagCPU
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,16 +87,16 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Maraton/CMakeFiles /home/codrin/Maraton//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Marat/AppLagCPU/CMakeFiles /home/codrin/Marat/AppLagCPU//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Maraton/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Marat/AppLagCPU/CMakeFiles 0
 .PHONY : all
 
 # The main codegen target
 codegen: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Maraton/CMakeFiles /home/codrin/Maraton//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Marat/AppLagCPU/CMakeFiles /home/codrin/Marat/AppLagCPU//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 codegen
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Maraton/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/codrin/Marat/AppLagCPU/CMakeFiles 0
 .PHONY : codegen
 
 # The main clean target
@@ -160,6 +160,198 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/CodeMem/CodeMem.o: src/CodeMem/CodeMem.cpp.o
+.PHONY : src/CodeMem/CodeMem.o
+
+# target to build an object file
+src/CodeMem/CodeMem.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/CodeMem/CodeMem.cpp.o
+.PHONY : src/CodeMem/CodeMem.cpp.o
+
+src/CodeMem/CodeMem.i: src/CodeMem/CodeMem.cpp.i
+.PHONY : src/CodeMem/CodeMem.i
+
+# target to preprocess a source file
+src/CodeMem/CodeMem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/CodeMem/CodeMem.cpp.i
+.PHONY : src/CodeMem/CodeMem.cpp.i
+
+src/CodeMem/CodeMem.s: src/CodeMem/CodeMem.cpp.s
+.PHONY : src/CodeMem/CodeMem.s
+
+# target to generate assembly for a file
+src/CodeMem/CodeMem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/CodeMem/CodeMem.cpp.s
+.PHONY : src/CodeMem/CodeMem.cpp.s
+
+src/Memory/memory.o: src/Memory/memory.cpp.o
+.PHONY : src/Memory/memory.o
+
+# target to build an object file
+src/Memory/memory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o
+.PHONY : src/Memory/memory.cpp.o
+
+src/Memory/memory.i: src/Memory/memory.cpp.i
+.PHONY : src/Memory/memory.i
+
+# target to preprocess a source file
+src/Memory/memory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.i
+.PHONY : src/Memory/memory.cpp.i
+
+src/Memory/memory.s: src/Memory/memory.cpp.s
+.PHONY : src/Memory/memory.s
+
+# target to generate assembly for a file
+src/Memory/memory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.s
+.PHONY : src/Memory/memory.cpp.s
+
+src/Registers/RegisterBank.o: src/Registers/RegisterBank.cpp.o
+.PHONY : src/Registers/RegisterBank.o
+
+# target to build an object file
+src/Registers/RegisterBank.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.o
+.PHONY : src/Registers/RegisterBank.cpp.o
+
+src/Registers/RegisterBank.i: src/Registers/RegisterBank.cpp.i
+.PHONY : src/Registers/RegisterBank.i
+
+# target to preprocess a source file
+src/Registers/RegisterBank.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.i
+.PHONY : src/Registers/RegisterBank.cpp.i
+
+src/Registers/RegisterBank.s: src/Registers/RegisterBank.cpp.s
+.PHONY : src/Registers/RegisterBank.s
+
+# target to generate assembly for a file
+src/Registers/RegisterBank.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Registers/RegisterBank.cpp.s
+.PHONY : src/Registers/RegisterBank.cpp.s
+
+src/Timing/Timing.o: src/Timing/Timing.cpp.o
+.PHONY : src/Timing/Timing.o
+
+# target to build an object file
+src/Timing/Timing.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o
+.PHONY : src/Timing/Timing.cpp.o
+
+src/Timing/Timing.i: src/Timing/Timing.cpp.i
+.PHONY : src/Timing/Timing.i
+
+# target to preprocess a source file
+src/Timing/Timing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.i
+.PHONY : src/Timing/Timing.cpp.i
+
+src/Timing/Timing.s: src/Timing/Timing.cpp.s
+.PHONY : src/Timing/Timing.s
+
+# target to generate assembly for a file
+src/Timing/Timing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.s
+.PHONY : src/Timing/Timing.cpp.s
+
+src/cpu/Data/Execute/Alu.o: src/cpu/Data/Execute/Alu.cpp.o
+.PHONY : src/cpu/Data/Execute/Alu.o
+
+# target to build an object file
+src/cpu/Data/Execute/Alu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.o
+.PHONY : src/cpu/Data/Execute/Alu.cpp.o
+
+src/cpu/Data/Execute/Alu.i: src/cpu/Data/Execute/Alu.cpp.i
+.PHONY : src/cpu/Data/Execute/Alu.i
+
+# target to preprocess a source file
+src/cpu/Data/Execute/Alu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.i
+.PHONY : src/cpu/Data/Execute/Alu.cpp.i
+
+src/cpu/Data/Execute/Alu.s: src/cpu/Data/Execute/Alu.cpp.s
+.PHONY : src/cpu/Data/Execute/Alu.s
+
+# target to generate assembly for a file
+src/cpu/Data/Execute/Alu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Alu.cpp.s
+.PHONY : src/cpu/Data/Execute/Alu.cpp.s
+
+src/cpu/Data/Execute/Execute.o: src/cpu/Data/Execute/Execute.cpp.o
+.PHONY : src/cpu/Data/Execute/Execute.o
+
+# target to build an object file
+src/cpu/Data/Execute/Execute.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.o
+.PHONY : src/cpu/Data/Execute/Execute.cpp.o
+
+src/cpu/Data/Execute/Execute.i: src/cpu/Data/Execute/Execute.cpp.i
+.PHONY : src/cpu/Data/Execute/Execute.i
+
+# target to preprocess a source file
+src/cpu/Data/Execute/Execute.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.i
+.PHONY : src/cpu/Data/Execute/Execute.cpp.i
+
+src/cpu/Data/Execute/Execute.s: src/cpu/Data/Execute/Execute.cpp.s
+.PHONY : src/cpu/Data/Execute/Execute.s
+
+# target to generate assembly for a file
+src/cpu/Data/Execute/Execute.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Data/Execute/Execute.cpp.s
+.PHONY : src/cpu/Data/Execute/Execute.cpp.s
+
+src/cpu/Decoder/Decoder.o: src/cpu/Decoder/Decoder.cpp.o
+.PHONY : src/cpu/Decoder/Decoder.o
+
+# target to build an object file
+src/cpu/Decoder/Decoder.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.o
+.PHONY : src/cpu/Decoder/Decoder.cpp.o
+
+src/cpu/Decoder/Decoder.i: src/cpu/Decoder/Decoder.cpp.i
+.PHONY : src/cpu/Decoder/Decoder.i
+
+# target to preprocess a source file
+src/cpu/Decoder/Decoder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.i
+.PHONY : src/cpu/Decoder/Decoder.cpp.i
+
+src/cpu/Decoder/Decoder.s: src/cpu/Decoder/Decoder.cpp.s
+.PHONY : src/cpu/Decoder/Decoder.s
+
+# target to generate assembly for a file
+src/cpu/Decoder/Decoder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/Decoder/Decoder.cpp.s
+.PHONY : src/cpu/Decoder/Decoder.cpp.s
+
+src/cpu/cpu.o: src/cpu/cpu.cpp.o
+.PHONY : src/cpu/cpu.o
+
+# target to build an object file
+src/cpu/cpu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.o
+.PHONY : src/cpu/cpu.cpp.o
+
+src/cpu/cpu.i: src/cpu/cpu.cpp.i
+.PHONY : src/cpu/cpu.i
+
+# target to preprocess a source file
+src/cpu/cpu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.i
+.PHONY : src/cpu/cpu.cpp.i
+
+src/cpu/cpu.s: src/cpu/cpu.cpp.s
+.PHONY : src/cpu/cpu.s
+
+# target to generate assembly for a file
+src/cpu/cpu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amd_applag.dir/build.make CMakeFiles/amd_applag.dir/src/cpu/cpu.cpp.s
+.PHONY : src/cpu/cpu.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -173,6 +365,30 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/CodeMem/CodeMem.o"
+	@echo "... src/CodeMem/CodeMem.i"
+	@echo "... src/CodeMem/CodeMem.s"
+	@echo "... src/Memory/memory.o"
+	@echo "... src/Memory/memory.i"
+	@echo "... src/Memory/memory.s"
+	@echo "... src/Registers/RegisterBank.o"
+	@echo "... src/Registers/RegisterBank.i"
+	@echo "... src/Registers/RegisterBank.s"
+	@echo "... src/Timing/Timing.o"
+	@echo "... src/Timing/Timing.i"
+	@echo "... src/Timing/Timing.s"
+	@echo "... src/cpu/Data/Execute/Alu.o"
+	@echo "... src/cpu/Data/Execute/Alu.i"
+	@echo "... src/cpu/Data/Execute/Alu.s"
+	@echo "... src/cpu/Data/Execute/Execute.o"
+	@echo "... src/cpu/Data/Execute/Execute.i"
+	@echo "... src/cpu/Data/Execute/Execute.s"
+	@echo "... src/cpu/Decoder/Decoder.o"
+	@echo "... src/cpu/Decoder/Decoder.i"
+	@echo "... src/cpu/Decoder/Decoder.s"
+	@echo "... src/cpu/cpu.o"
+	@echo "... src/cpu/cpu.i"
+	@echo "... src/cpu/cpu.s"
 .PHONY : help
 
 
