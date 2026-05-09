@@ -1,13 +1,13 @@
 [
 {
   "directory": "/home/tudor/AN3/ITMarathon/AppLagCPU",
-  "command": "/usr/bin/c++   -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/main.cpp.o -c /home/tudor/AN3/ITMarathon/AppLagCPU/src/main.cpp",
+  "command": "/usr/bin/c++  -I/home/tudor/AN3/ITMarathon/AppLagCPU -I/home/tudor/AN3/ITMarathon/AppLagCPU/src -I/home/tudor/AN3/ITMarathon/AppLagCPU/src/Timing -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/main.cpp.o -c /home/tudor/AN3/ITMarathon/AppLagCPU/src/main.cpp",
   "file": "/home/tudor/AN3/ITMarathon/AppLagCPU/src/main.cpp",
   "output": "CMakeFiles/amd_applag.dir/src/main.cpp.o"
 },
 {
   "directory": "/home/tudor/AN3/ITMarathon/AppLagCPU",
-  "command": "/usr/bin/c++   -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o -c /home/tudor/AN3/ITMarathon/AppLagCPU/src/Timing/Timing.cpp",
+  "command": "/usr/bin/c++  -I/home/tudor/AN3/ITMarathon/AppLagCPU -I/home/tudor/AN3/ITMarathon/AppLagCPU/src -I/home/tudor/AN3/ITMarathon/AppLagCPU/src/Timing -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o -c /home/tudor/AN3/ITMarathon/AppLagCPU/src/Timing/Timing.cpp",
   "file": "/home/tudor/AN3/ITMarathon/AppLagCPU/src/Timing/Timing.cpp",
   "output": "CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o"
 }

@@ -8,7 +8,7 @@
 constexpr const uint16_t ADDR_SIZE_BYTES = 2;
 constexpr const uint16_t DARA_SIZE_BYTES = 2;
 constexpr const uint16_t WORD_SIZE_BYTES = 2;
-constexpr const uint16_t CLK_PERIOD_ms = 5;
+constexpr const uint16_t CLK_PERIOD_ms = 1000;
 
 
 

@@ -20,13 +20,19 @@ public:
 public:
     void start();
     void stop();
+    std::condition_variable& TimingConditionVariable() { return m_timingConditionVariable; }
+    std::mutex& TimingMutex() { return m_timingMutex; }
+    bool IsActive() { return m_tick.load(); }
 
 private:
     void run();
 
 private:
-    std::jthread m_timingThread;
+    std::mutex m_timingMutex;
     std::condition_variable m_timingConditionVariable;
+    std::atomic_bool m_tick = false;
+
+    std::jthread m_timingThread;
     std::atomic_bool m_running = true;
 };
 

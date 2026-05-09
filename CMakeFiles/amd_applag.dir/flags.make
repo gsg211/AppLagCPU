@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/tudor/AN3/ITMarathon/AppLagCPU -I/home/tudor/AN3/ITMarathon/AppLagCPU/src -I/home/tudor/AN3/ITMarathon/AppLagCPU/src/Timing
 
 CXX_FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
 
