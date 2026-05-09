@@ -1,3 +1,0 @@
-/home/codrin/Marat/AppLagCPU/CMakeFiles/amd_applag.dir
-/home/codrin/Marat/AppLagCPU/CMakeFiles/edit_cache.dir
-/home/codrin/Marat/AppLagCPU/CMakeFiles/rebuild_cache.dir

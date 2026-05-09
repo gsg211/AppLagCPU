@@ -9,13 +9,13 @@
 #include <cstdint>
 #include <locale>
 
-class memory {
+class Memory {
 private:
     std::array<std::array<uint8_t, 8>, 8192> cpu_memory{};
 public:
     std::atomic_bool memRead;
     std::atomic_bool memWrite;
-    
+
     std::array<uint8_t,8>& getLine(uint16_t address);
     uint16_t readWord(uint16_t address);
     uint8_t readByte(uint16_t address);

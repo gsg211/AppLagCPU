@@ -22,8 +22,6 @@ void Execute::ExecuteLoop() {
 
         return m_timing->IsActive();
     };
-    // auto instructionQueue = std::make_shared<ThreadSafeQueue<std::string>>();
-    // auto signalQueue = std::make_shared<ThreadSafeQueue<Message>>();
     while (m_isRunning.load()) {
 
         while (true) {

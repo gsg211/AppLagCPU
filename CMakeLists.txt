@@ -30,6 +30,9 @@ add_executable(amd_applag main.cpp
         src/cpu/Utils.h
         src/CodeMem/CodeMem.h
         src/CodeMem/CodeMem.cpp
+        src/cpu/Data/DataPath.cpp
+        src/cpu/Data/DataPath.h
+        src/Memory/Memory.h
 )
 
 target_include_directories(amd_applag PRIVATE
