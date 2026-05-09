@@ -10,5 +10,11 @@
   "command": "/usr/bin/c++ -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp\"",
   "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp",
   "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/Memory/memory.cpp.o"
+},
+{
+  "directory": "/home/sabin/Files/Facultate/An 3 Home/amd_applag",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o -c \"/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing/Timing.cpp\"",
+  "file": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing/Timing.cpp",
+  "output": "/home/sabin/Files/Facultate/An 3 Home/amd_applag/CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o"
 }
 ]

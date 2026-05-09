@@ -27,6 +27,11 @@
 		{
 			"language" : "CXX",
 			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Memory/memory.cpp"
+		},
+		"CMakeFiles/amd_applag.dir/src/Timing/Timing.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/sabin/Files/Facultate/An 3 Home/amd_applag/src/Timing/Timing.cpp"
 		}
 	}
 }
