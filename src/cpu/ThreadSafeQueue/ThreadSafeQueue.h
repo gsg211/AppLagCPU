@@ -44,5 +44,6 @@ private:
 
 typedef std::shared_ptr<ThreadSafeQueue<std::string>> StringThreadSafeQueuePtr;
 typedef std::shared_ptr<ThreadSafeQueue<Message>> MessageThreadSafeQueuePtr;
+typedef std::shared_ptr<ThreadSafeQueue<DataPacket>> DataThreadSafeQueuePtr;
 
 #endif //AMD_APPLAG_THREADSAFEQUEUE_H

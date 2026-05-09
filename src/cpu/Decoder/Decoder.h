@@ -15,7 +15,7 @@
 class Decoder : public IModule
 {
 public:
-    Decoder(const TimingPtr& timing, const StringThreadSafeQueuePtr& instructionQueue, const MessageThreadSafeQueuePtr& messageQueue);
+    Decoder(const TimingPtr& timing, const StringThreadSafeQueuePtr& instructionQueue, const MessageThreadSafeQueuePtr& messageQueue, const DataThreadSafeQueuePtr& dataQueue);
     Decoder(const Decoder&) = delete;
     Decoder& operator=(const Decoder&) = delete;
     Decoder(Decoder&&) = delete;
@@ -32,6 +32,7 @@ private:
 public:
     StringThreadSafeQueuePtr m_instructionQueue;
     MessageThreadSafeQueuePtr m_decodeQueue;
+    DataThreadSafeQueuePtr m_dataQueue;
 
 private:
     std::mutex m_decoderMutex;
